@@ -1,8 +1,10 @@
 ## Attention
 Please check via email or skype to see if this is valid before performing the challenge.
+If you don't have time to do this challenge, please contact us via email and skype.
 
 - skype: live:.cid.2bfde47f0df08310
 - email: longterm.business777@outlook.com
+
 
 ## Node.js Backend Challenge
 

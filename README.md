@@ -1,3 +1,9 @@
+## Attention
+Please check via email or skype to see if this is valid before performing the challenge.
+
+- skype: live:.cid.2bfde47f0df08310
+- email: longterm.business777@outlook.com
+
 ## Node.js Backend Challenge
 
 [Indego](https://www.rideindego.com) is Philadelphia's bike-sharing program, with many bike stations in the city.
